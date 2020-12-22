@@ -1,7 +1,7 @@
 {
   "name": "tic",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/core/AppBar": "^4.11.2",
@@ -39,6 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-{ "license" : "MIT" },
+  }
 }
